@@ -4,7 +4,7 @@ Description:
 This is a simple watch timer that can start, stop, and reset. It's a great tool.
 This project is a stylish clock application that features both a digital clock and an analog clock, as well as a stopwatch. The project is built using HTML, CSS, and JavaScript, providing a visually appealing and responsive design.
 
-# LIVE DEMO: 
+# LIVE DEMO: https://codelikeamachine.github.io/Day41of50-Amazing-Timer-and-Watch/
 
 # Join Me:
 Github: https://github.com/Codelikeamachine
