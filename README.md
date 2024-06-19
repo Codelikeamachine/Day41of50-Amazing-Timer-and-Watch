@@ -1,4 +1,4 @@
-# Day41of50-Amazing-Watch-Timer-StartStop
+# Day41of50-Amazing-Timer-and-Watch
 Description:
 
 This is a simple watch timer that can start, stop, and reset. It's a great tool.
