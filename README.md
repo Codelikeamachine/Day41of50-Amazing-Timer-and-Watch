@@ -8,7 +8,9 @@ This project is a stylish clock application that features both a digital clock a
 
 # Join Me:
 Github: https://github.com/Codelikeamachine
+
 Linkedin: https://www.linkedin.com/in/armaansaraswat/
+
 Instagram: https://www.instagram.com/saraswat_armaan/
 
 Features:
